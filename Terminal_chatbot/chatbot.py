@@ -26,7 +26,7 @@ while True:
     user_input = input("You: ")
 
     if user_input.lower() == "exit":
-        print("Chatbot stopped.")
+        print("Chatbot stopped not working.")
         break
 
     messages.append({
